@@ -2,33 +2,39 @@
     "contacts": [
       {
         "id": "1",
-        "name": "Dipesh Malvia ",
+        "name": "kevinnzioki10@gmail.com",
+        "phone": "0704116728",
         "email": "dipesh@gmail.com"
       },
       {
         "id": "2",
-        "name": "Mike J",
-        "email": "mike@rediffmail.com"
+        "name": "Tycoon",
+        "phone": "0707281164",
+        "email": "tycoon@rediffmail.com"
       },
       {
         "id": "3",
         "name": "Maximum",
+        "phone": "0712345674",
         "email": "max@yahoo.com"
       },
       {
         "id": "4",
-        "name": "test",
-        "email": "test@gmail.com"
+        "name": "Jeane",
+        "phone": "0705416728",
+        "email": "jeane@gmail.com"
       },
       {
         "id": "5",
-        "name": "Amit",
-        "email": "amit@gmail.com"
+        "name": "Emmanuel",
+        "phone": "0713178943",
+        "email": "emmanuel@gmail.com"
       },
       {
         "id": "6",
-        "name": "Mike John",
-        "email": "mike@outlook.com"
+        "name": "Mike Allan",
+        "phone": "0701119856",
+        "email": "allan@outlook.com"
       }
     ]
   }
