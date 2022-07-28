@@ -4,37 +4,49 @@
         "id": "1",
         "name": "Kevin Nzioki",
         "phone": "0704116728",
-        "email": "kevinnzioki10@gmail.com"
+        "email": "kevinnzioki10@gmail.com",
+        "company": "Moringa",
+        "group": "family"
       },
       {
         "id": "2",
         "name": "Tycoon",
         "phone": "0707281164",
-        "email": "tycoon@rediffmail.com"
+        "email": "tycoon@rediffmail.com",
+        "company": "Google",
+        "group": "family"
       },
       {
         "id": "3",
-        "name": "Maximum",
+        "name": "Arisa",
         "phone": "0712345674",
-        "email": "max@yahoo.com"
+        "email": "arisa@yahoo.com",
+        "company": "Microsoft",
+        "group": "friend"
       },
       {
         "id": "4",
         "name": "Jeane",
         "phone": "0705416728",
-        "email": "jeane@gmail.com"
+        "email": "jeane@gmail.com",
+        "company": "Vet Lmtd",
+        "group": "friend"
       },
       {
         "id": "5",
         "name": "Emmanuel",
         "phone": "0713178943",
-        "email": "emmanuel@gmail.com"
+        "email": "emmanuel@gmail.com",
+        "company": "Safaricom",
+        "group": "friend"
       },
       {
         "id": "6",
         "name": "Mike Allan",
         "phone": "0701119856",
-        "email": "allan@outlook.com"
+        "email": "allan@outlook.com",
+        "company": "Skepta",
+        "group": "friend"
       }
     ]
   }
