@@ -6,7 +6,7 @@
         "phone": "0704116720",
         "email": "kevinnzioki10@gmail.com",
         "company": "Moringa",
-        "group": "1"
+        "group": "Family"
       },
       {
         "id": "2",
@@ -14,7 +14,7 @@
         "phone": "0707281164",
         "email": "tycoon@rediffmail.com",
         "company": "Google",
-        "group": "2"
+        "group": "Family"
       },
       {
         "id": "3",
@@ -22,7 +22,7 @@
         "phone": "0712345674",
         "email": "arisa@yahoo.com",
         "company": "Microsoft",
-        "group": "5"
+        "group": "Friend"
       },
       {
         "id": "4",
@@ -30,7 +30,7 @@
         "phone": "0705416728",
         "email": "jeane@gmail.com",
         "company": "Vet Lmtd",
-        "group": "4"
+        "group": "Colleague"
       },
       {
         "id": "5",
@@ -38,7 +38,7 @@
         "phone": "0713178943",
         "email": "emmanuel@gmail.com",
         "company": "Safaricom",
-        "group": "6"
+        "group": "Community"
       },
       {
         "id": "6",
@@ -46,34 +46,7 @@
         "phone": "0701119856",
         "email": "allan@outlook.com",
         "company": "Skepta",
-        "group": "3"
-      }
-    ],
-    
-    "groups":[
-      {
-        "id":"1",
-        "name":"Colleague"
-      },
-      {
-        "id":"2",
-        "name":"Service"
-      },
-      {
-        "id":"3",
-        "name":"Friend"
-      },
-      {
-        "id":"4",
-        "name":"Family"
-      },
-      {
-        "id":"5",
-        "name":"Community"
-      },
-      {
-        "id":"6",
-        "name":"Social"
+        "group": "Social"
       }
     ]
   }
