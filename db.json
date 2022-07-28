@@ -5,21 +5,24 @@
         "name": "Kevin Nzioki",
         "phone": "0704116720",
         "email": "kevinnzioki10@gmail.com",
-        "company": "Moringa"
+        "company": "Moringa",
+        "group": "1"
       },
       {
         "id": "2",
         "name": "Tycoon",
         "phone": "0707281164",
         "email": "tycoon@rediffmail.com",
-        "company": "Google"
+        "company": "Google",
+        "group": "2"
       },
       {
         "id": "3",
         "name": "Arisa",
         "phone": "0712345674",
         "email": "arisa@yahoo.com",
-        "company": "Microsoft"
+        "company": "Microsoft",
+        "group": "5"
       },
       {
         "id": "4",
@@ -27,21 +30,23 @@
         "phone": "0705416728",
         "email": "jeane@gmail.com",
         "company": "Vet Lmtd",
-        "group": "friend"
+        "group": "4"
       },
       {
         "id": "5",
         "name": "Emmanuel",
         "phone": "0713178943",
         "email": "emmanuel@gmail.com",
-        "company": "Safaricom"
+        "company": "Safaricom",
+        "group": "6"
       },
       {
         "id": "6",
         "name": "Mike Allan",
         "phone": "0701119856",
         "email": "allan@outlook.com",
-        "company": "Skepta"
+        "company": "Skepta",
+        "group": "3"
       }
     ],
     
@@ -52,7 +57,7 @@
       },
       {
         "id":"2",
-        "name":"Colleague"
+        "name":"Service"
       },
       {
         "id":"3",
