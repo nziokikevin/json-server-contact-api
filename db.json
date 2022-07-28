@@ -3,26 +3,23 @@
       {
         "id": "1",
         "name": "Kevin Nzioki",
-        "phone": "0704116728",
+        "phone": "0704116720",
         "email": "kevinnzioki10@gmail.com",
-        "company": "Moringa",
-        "group": "family"
+        "company": "Moringa"
       },
       {
         "id": "2",
         "name": "Tycoon",
         "phone": "0707281164",
         "email": "tycoon@rediffmail.com",
-        "company": "Google",
-        "group": "family"
+        "company": "Google"
       },
       {
         "id": "3",
         "name": "Arisa",
         "phone": "0712345674",
         "email": "arisa@yahoo.com",
-        "company": "Microsoft",
-        "group": "friend"
+        "company": "Microsoft"
       },
       {
         "id": "4",
@@ -37,16 +34,41 @@
         "name": "Emmanuel",
         "phone": "0713178943",
         "email": "emmanuel@gmail.com",
-        "company": "Safaricom",
-        "group": "friend"
+        "company": "Safaricom"
       },
       {
         "id": "6",
         "name": "Mike Allan",
         "phone": "0701119856",
         "email": "allan@outlook.com",
-        "company": "Skepta",
-        "group": "friend"
+        "company": "Skepta"
+      }
+    ],
+    
+    "groups":[
+      {
+        "id":"1",
+        "name":"Colleague"
+      },
+      {
+        "id":"2",
+        "name":"Colleague"
+      },
+      {
+        "id":"3",
+        "name":"Friend"
+      },
+      {
+        "id":"4",
+        "name":"Family"
+      },
+      {
+        "id":"5",
+        "name":"Community"
+      },
+      {
+        "id":"6",
+        "name":"Social"
       }
     ]
   }
